@@ -43,13 +43,21 @@ To configure the integration of SharingCloud into Azure AD, you need to add Shar
 
 1. Sign in to the [Azure portal](https://portal.azure.com) using either a work or school account, or a personal Microsoft account.
 1. On the left navigation pane, select the **Azure Active Directory** service.
+
 	![The Azure Active Directory button](common/select-azuread.png)
+	
 1. Navigate to **Enterprise Applications** and then select **All Applications**.
+
 	![The Enterprise applications blade](common/enterprise-applications.png)
+	
 1. To add new application, select **New application**.
+
 	![The New application button](common/add-new-app.png)
+	
 1. In the **Add from the gallery** section, type **SharingCloud** in the search box.
+
 	![SharingCloud in the results list](common/search-new-app.png)
+	
 1. Select **SharingCloud** from results panel and then add the app. Wait a few seconds while the app is added to your tenant.
 
 ## Configure and test Azure AD single sign-on for SharingCloud
