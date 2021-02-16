@@ -155,16 +155,8 @@ In this section, a user called Britta Simon is created in SharingCloud. SharingC
 
 ## Test SSO 
 
-In this section, you test your Azure AD single sign-on configuration using the Access Panel.
+* Go to your SharingCloud URL directly and initiate the login flow from there.
 
-When you click the SharingCloud tile in the Access Panel, you should be automatically signed in to the SharingCloud for which you set up SSO. For more information about the Access Panel, see [Introduction to the Access Panel](../user-help/my-apps-portal-end-user-access.md).
+## Next steps
 
-## Additional resources
-
-- [ List of Tutorials on How to Integrate SaaS Apps with Azure Active Directory ](./tutorial-list.md)
-
-- [What is application access and single sign-on with Azure Active Directory? ](../manage-apps/what-is-single-sign-on.md)
-
-- [What is conditional access in Azure Active Directory?](../conditional-access/overview.md)
-
-- [Try SharingCloud with Azure AD](https://aad.portal.azure.com/)
+Once you configure SharingCloud you can enforce session control, which protects exfiltration and infiltration of your organization’s sensitive data in real time. Session control extends from Conditional Access. [Learn how to enforce session control with Microsoft Cloud App Security](https://docs.microsoft.com/cloud-app-security/proxy-deployment-any-app).
