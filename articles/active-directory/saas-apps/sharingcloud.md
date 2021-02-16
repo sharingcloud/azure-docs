@@ -1,6 +1,6 @@
 ---
-title: 'Tutorial: Azure Active Directory sigle sign-on (SSO) integration with SharingCloud | Microsoft Docs'
-description: Learn how to configure single sign-on between Azure Active Directory and Instant Suite.
+title: 'Tutorial: Azure Active Directory single sign-on (SSO) integration with SharingCloud | Microsoft Docs'
+description: Learn how to configure sign-on between Azure Active Directory and Instant Suite.
 services: active-directory
 author: jeevansd
 manager: CelesteDG
